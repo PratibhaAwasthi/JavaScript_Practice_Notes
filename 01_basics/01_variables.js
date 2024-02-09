@@ -6,3 +6,7 @@ var school = "st mary`s school"; //old ways to declare
 console.log(emailAddress);
 
 console.table([firstName, age, school]);
+
+/* 
+variable do not understand block and functional scope. Not the best thing to use.
+*/
